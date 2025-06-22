@@ -33,10 +33,10 @@ updated_at	        timestamp	            Updated Time
 🚀 How to Install and Run Locally
 
 # 1. Clone this repo
-git clone https://github.com/sansen/student_management-_crud.git
+git clone https://github.com/sansen168/student_management.git
 
 # 2. Go to the project folder
-cd student_management_crud
+cd student_management
 
 # 3. Install PHP dependencies
 composer install
