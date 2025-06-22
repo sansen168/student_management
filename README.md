@@ -1,18 +1,31 @@
 # student_management
+
 🎓 Student Management System — CRUD App with Laravel 10
+
 A simple and clean Student Management System built using Laravel 10 + MySQL, allowing users to register, view, edit, and delete student information with image upload support.
+
 ✨ Features
+
 •	🧾 Register new students
+
 •	🖊️ Edit and update student information
+
 •	🗑️ Delete student records
+
 •	📷 Upload and display student image
+
 •	📊 View all student data in table format
+
 •	🎨 UI styled with Bootstrap (responsive)
 ________________________________________
 🛠️ Tech Stack
+
 •	Laravel 10 (Backend)
+
 •	MySQL (Database)
+
 •	Blade + Bootstrap 5 (Frontend)
+
 •	HTML5/CSS3/Javascript
 
 📋 Table Structure: students
