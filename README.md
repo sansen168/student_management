@@ -68,15 +68,18 @@ cd student_management
 # 3. Install PHP dependencies
 composer install
 
-# 4. Copy .env and set up DB
+# 4. create folder image 
+php artisan storage:link
+
+# 5. Copy .env and set up DB
 
 cp .env.example .env
 
 php artisan key:generate
 
-# 6. Create database & migrate
+# 7. Create database & migrate
 php artisan migrate
 
-# 7. Serve the app
+# 8. Serve the app
 php artisan serve
 
